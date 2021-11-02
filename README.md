@@ -1,2 +1,11 @@
-# icis-site-console
-[In-Progress] Proposed admin console to manage current Imperial College Investment Society website.
+# Proposed ICIS Site Console
+
+## Intro
+`UNDER CONSTRUCITON 🚧`
+
+## Function Map
+* User System
+    * Registration
+    * Login / Logoff
+* Site Data
+    * Event information management 
