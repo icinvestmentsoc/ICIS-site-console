@@ -1,0 +1,19 @@
+{
+  "name": "icis-site-console",
+  "version": "1.0.0",
+  "description": "[In-Progress] Proposed admin console to manage current Imperial College Investment Society website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icinvestmentsoc/ICIS-site-console.git"
+  },
+  "author": "Samuel Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icinvestmentsoc/ICIS-site-console/issues"
+  },
+  "homepage": "https://github.com/icinvestmentsoc/ICIS-site-console#readme"
+}
